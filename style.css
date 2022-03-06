@@ -1,0 +1,51 @@
+div {
+  border: solid black;
+  padding-left: 20px;
+}
+
+.title {
+  background-color: grey;
+}
+.link {
+  background-color: aqua;
+}
+.first {
+  background-color: crimson;
+}
+.second {
+  background-color: yellow;
+}
+.third {
+  background-color: orange;
+}
+.fourth {
+  background-color: green;
+}
+.fifth {
+  background-color: violet;
+}
+.sixth {
+  color: red;
+}
+.seventh {
+  color: chocolate;
+}
+.eight {
+  color: brown;
+}
+.ninth {
+  color: blue;
+}
+.tenth {
+  color: darkcyan;
+}
+li {
+  display: inline
+}
+a{
+  text-decoration: none;
+  padding-right: 10px;
+}
+ul {
+  padding-left: 0px;
+}
